@@ -77,7 +77,7 @@ h3 {
 }
 
 .card1 {
-  background-image: url(../calmontero.git.io/img/design glass.jpg);
+  background-image: url("../calmontero.git.io/img/design glass.jpg");
   background-size: cover;
 }
 
@@ -92,7 +92,7 @@ h3 {
 }
 
 .card2 {
-  background-image: url(../calmontero.git.io/img/custom.jpg);
+  background-image: url("../calmontero.git.io/img/custom.jpg");
   background-size: cover;
 }
 
